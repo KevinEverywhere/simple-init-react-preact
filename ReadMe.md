@@ -1,6 +1,6 @@
 # simple-init-react-preact
 
-This project was simply created to let others quickly see how react and preact look side by side. Once the initial files are created, you can experiment in each of the apps to see how interchangeable they actually are.
+This project is an example of how current react and preact cli-build processes work and appear side by side. Once the initial files are created, you can experiment in each of the apps to see how interchangeable they actually are.
 
 ## instructions
 
@@ -31,4 +31,4 @@ yarn run startPreact
 
 ## summary
 
-This truly is meant as nothing more than a way to quickly see the state of react and preact development the first day of autumn, 2017. This should save some time for those wanting to have a quick side-by-side view of how the two look under the hood.
+This truly is meant as nothing more than a way to quickly see the state of react and preact development the first day of autumn, 2017. This should save some time for those wanting to have a quick view of how the two look under the hood.
