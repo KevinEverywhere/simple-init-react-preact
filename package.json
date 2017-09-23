@@ -1,7 +1,7 @@
 {
   "name": "simple-init-react-preact",
   "version": "1.0.0",
-  "description": "A preact and react app are created using simple commands",
+  "description": "Create preact and react apps using a simple command",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
