@@ -1,7 +1,7 @@
 {
-  "name": "firstApp",
+  "name": "simple-init-react-preact",
   "version": "1.0.0",
-  "description": "First test of preact",
+  "description": "A preact and react app are created using simple commands",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
