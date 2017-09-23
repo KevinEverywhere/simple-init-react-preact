@@ -1,0 +1,22 @@
+{
+  "name": "firstApp",
+  "version": "1.0.0",
+  "description": "First test of preact",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "firstRunPreact": "node_modules/.bin/preact create my-preact-app",
+    "testPreact": "if [ ! -f my-preact-app/package.json ]; then yarn run firstRunPreact; fi",
+    "prestartPreact": "yarn run testPreact",
+    "startPreact": "cd my-preact-app && yarn start",
+    "firstRunReact": "node_modules/.bin/create-react-app my-react-app",
+    "testReact": "if [ ! -f my-react-app/package.json ]; then yarn run firstRunReact; fi",
+    "prestartReact": "yarn run testReact",
+    "startReact": "cd my-react-app && yarn start"
+  },
+  "dependencies": {
+    "create-react-app": "^1.4.0",
+    "preact-cli": "^1.4.1",
+    "yarn": "^1.0.2"
+  }
+}
