@@ -63,6 +63,7 @@ This truly is meant as nothing more than a way to quickly see the state of react
 This repo uses the initialization scripts described in the [preact-cli][preact-cli] for preact and [create-react-app][create-react-app] for react repos to create a base application. For more information, please use the links below to discover best practices and state of the moment examples and documentation.
 
 [preact][preact]
+
 [What's new in Create React App][whatsnew]
 
 -------------
